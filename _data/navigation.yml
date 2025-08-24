@@ -1,0 +1,24 @@
+header:
+  - titles:
+      # @start locale config
+      en      : &EN       MeetTheTeam
+      # @end locale config
+    url: /meettheteam.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       EventCalendar
+      # @end locale config
+    url: /eventcalendar.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       ContactUs
+      # @end locale config
+    url: /contactus.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Freshers101
+      # @end locale config
+    url: /freshers101.html
