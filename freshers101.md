@@ -29,7 +29,7 @@ To make an appointment with an advisor, you can use the ‘Navigate’ app or th
 
 Also, it’s completely okay if you don’t have your major decided yet during the first few semesters. You can always change your major, and advisors can help you with it. Once you have declared a major, it’s better to meet faculty advisors. They’ll be able to map the road better once you decide on your major. 
 
-**NOTE:** These are the combined general experiences of Nepali international students at UNT. If you ever face a situation different from this, it’s best to use the university’s resources and contact the respective university faculty directly. 
+**NOTE:** These are the combined general experiences of Nepali international students at UNT. If you ever face a situation different from this, it’s best to use the university’s resources and contact the respective university faculty directly.
 
 ---
 
@@ -112,7 +112,7 @@ For example, an apartment complex named  Eagle Manor apartment by Scott Brown P
   * Take your Flywire invoice and required documents to NMB Bank. The transfer amount will be specified in the Flywire invoice. They will handle and initiate the transfer to UNT.
 * Processing Time
   * The entire process usually takes 3 business days to complete.
-  * You will receive an email confirmation once the payment is received, and there are payment tracking options in Flywire. 
+  * You will receive an email confirmation once the payment is received, and there are payment tracking options in Flywire.
 * Key Notes:
   * Use this method for future semester payments once you're settled in the U.S.
   * Do not use Flywire before arrival for tuition unless you know the exact amount due (since charges vary from what’s shown on the I-20).
@@ -124,7 +124,7 @@ Once you arrive in the U.S. and open a local bank account, you can receive money
 Steps to Receive Money from Nepal via Wire Transfer:
 * Open a U.S. Bank Account
   * Atter arrival, visit a nearby bank (such as Bank of America, Chase, or Wells Fargo) and open a checking account.
-  * The bank will provide you with: 
+  * The bank will provide you with:
     * Your account number
     * The routing number (used to receive domestic and international transfers)
     * The bank’s SWIFT code (required for international transfers)
@@ -145,7 +145,7 @@ Steps to Receive Money from Nepal via Wire Transfer:
 #### How to open up a bank account
 * All services in America work through an appointment system.
 * Banks are no different; you will need to make an appointment online.
-* A good starting bank can be Chase, Wells Fargo, or Capital One.
+* A good starting bank can be Chase, Wells Fargo, Datcu (is inside UNT main campus) or Capital One.
 * Some banks allow opening accounts online or through the phone. Capital One had that feature in 2023 (check if it still applies).
 * Most checking accounts require >$500 to avoid a service fee.
 * Capital One had a $0 requirement back in 2023. Do your own research before choosing a bank.
@@ -167,9 +167,9 @@ Steps to Receive Money from Nepal via Wire Transfer:
 
 
 #### PayPal
-* Paypal is USA’s esewa. 
+* Paypal is USA’s esewa.
 * An account can be open online for no cost.
-* Once that is done link your credit card (if not then debit card). 
+* Once that is done link your credit card (if not then debit card).
 
 #### Google/Apple Pay
 * Once you have your cards and paypal ready. Simply link them as instructed in the respective apps.
@@ -240,7 +240,7 @@ Steps to Receive Money from Nepal via Wire Transfer:
 ### Driver Liscense
 
 #### Learner Permit
-* Students under the age of 25 need to complete a Texas Driving course.  
+* Students under the age of 25 need to complete a Texas Driving course.
   A course like [this one](https://www.aceable.com/lp/texas-drivers-ed/?ag=1310618022021742&loc_i=4126&loc_p=77603&network=o&dvc=c) should work. There may be other cheaper options as well.
 * Once you have completed the course, schedule an appointment for a learner's permit using [this scheduler](https://www.txdpsscheduler.com/).
 
@@ -277,11 +277,11 @@ Steps to Receive Money from Nepal via Wire Transfer:
 ### Diamond Student Center
 
 #### Food Pantry
-* For the [Food Pantry](https://studentaffairs.unt.edu/desresources/programs/food-pantry/hours)  
+* For the [Food Pantry](https://studentaffairs.unt.edu/desresources/programs/food-pantry/hours)
   Once a week you can go there with your physical ID and get food (whatever is available, like rice or snacks) for free.
 * For the ladies, they also have tampons and pads.
 
 #### Cloth Renting
 * There is also a clothes rent option that lets you rent out tailored clothing.
 
-For help and more information, please join our messenger [group](https://m.me/ch/Abb2yrcq84JwisHt/) and reach out to anyone there. 
+For help and more information, please join our messenger [group](https://m.me/ch/Abb2yrcq84JwisHt/) and reach out to anyone there.
